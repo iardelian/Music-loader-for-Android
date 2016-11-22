@@ -1,5 +1,5 @@
 # Music-loader-for-Android
-![logo](http://iscr.ru/photo/1479807189_en1.png)
+![logo](http://s009.radikal.ru/i308/1611/65/7f4310a32282.png)
 Android app for music downloading
 
 Here you can find my first Android application. Of course it has some bugs, but it works =) As it really can help you to listen and download any music you want, it was deleted from Google Play =)
