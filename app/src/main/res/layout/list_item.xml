@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dp">
+
+    <TextView
+        android:id="@+id/artist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorTextDark"
+        android:textSize="@dimen/_text_artist"
+        android:padding="0dp"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/track"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/_text_margin"
+        android:layout_marginRight="@dimen/_text_margin"
+        android:textColor="@color/colorTextDark"
+        android:textSize="@dimen/_text_track"
+        android:paddingBottom="@dimen/_text_padding"
+        android:layout_below="@+id/artist"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/duration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorTextDark"
+        android:layout_below="@+id/track"
+        android:textSize="@dimen/_text_duration"
+        android:padding="0dp"
+        android:gravity="center"/>
+
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_play"
+        android:id="@+id/radioPlay"
+        style="@style/ButtonList"
+        android:button="@android:color/transparent"
+        android:drawableLeft="@drawable/selector_play"
+        android:padding="12dp"
+        android:elevation="8dp"/>
+
+
+    <ImageButton
+        android:id="@+id/imageButtonLoad"
+        android:src="@drawable/ic_file_download"
+        style="@style/ButtonList"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:elevation="8dp"/>
+
+</RelativeLayout>

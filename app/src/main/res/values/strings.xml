@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusLoader</string>
+    <string name="Search">Search</string>
+    <string name="SearchLine">SearchLine</string>
+    <string name="action_settings">Settings</string>
+    <string name="Searchbtn">Search</string>
+    <string name="rate">Rate app</string>
+    <string name="contact_dev">Contact with developer</string>
+    <string name="exit">Exit</string>
+</resources>
