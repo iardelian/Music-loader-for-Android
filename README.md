@@ -5,6 +5,8 @@ Android app for music downloading
 
 Here you can find my first Android application. Of course it has some bugs, but it works =) As it really can help you to listen and download any music you want, it was deleted from Google Play =)
 
-![screenshot](http://s018.radikal.ru/i520/1611/4c/ae2f19972656.png)
+![screenshot](http://s017.radikal.ru/i418/1611/2f/c0e3ea90c4e4.png)
+![screenshot2](http://s018.radikal.ru/i511/1611/c0/2a6a848717c6.png)
+
 
 If you want, you can download apk file directly using [this link](https://www.dropbox.com/s/c3v7qrdq177g8u0/MusLoader.apk)
