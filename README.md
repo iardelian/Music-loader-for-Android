@@ -9,4 +9,4 @@ Here you can find my first Android application. Of course it has some bugs, but 
 ![screenshot2](http://s018.radikal.ru/i511/1611/c0/2a6a848717c6.png)
 
 
-If you want, you can download apk file directly and install it to your device using [this link](https://www.dropbox.com/s/aesrku73015pnuh/MusLoader.apk)
+If you want, you can download apk file directly and install it to your device using [this link](https://www.dropbox.com/s/4jkc1nkd1s7mq39/MusLoader.apk)
